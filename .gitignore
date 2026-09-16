@@ -1,0 +1,16 @@
+# Prediction/predownloaded files
+*.appimage
+*.AppImage
+*.tar.gz
+
+# Nix build outputs
+result
+result-*
+
+# Development environments
+.direnv/
+.env
+
+# Temporary and scratch files
+scratch/
+update_output.txt
