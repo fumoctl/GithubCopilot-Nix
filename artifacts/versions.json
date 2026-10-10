@@ -11,12 +11,12 @@
   },
   "GitHub Copilot CLI": {
     "x86_64-linux": {
-      "url": "https://github.com/github/copilot-cli/releases/download/v1.0.94/copilot-linux-x64.tar.gz",
-      "hash": "0h5ja3bfsp1zawalzxqvbvk8qp0w7f9vhs676i3pyd80562gzjha"
+      "url": "https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-linux-x64.tar.gz",
+      "hash": "0zwxf69gg7vnxdbf4cdlzqj3j093r6grsbs5q82wkgdjyds8h6n9"
     },
     "aarch64-linux": {
-      "url": "https://github.com/github/copilot-cli/releases/download/v1.0.94/copilot-linux-arm64.tar.gz",
-      "hash": "0qayjniz2vrm5sq8bm52rwp33s8kwpzax51vs0d1ac2zz933nxld"
+      "url": "https://github.com/github/copilot-cli/releases/download/v1.0.95/copilot-linux-arm64.tar.gz",
+      "hash": "0i0gy502747ih8c1kkm6hp6isg7v76d3l43rlkb9jmnimg9r9bjc"
     }
   }
 }
