@@ -1,22 +1,22 @@
 {
   "GitHub Copilot Desktop": {
     "x86_64-linux": {
-      "url": "https://github.com/github/app/releases/download/v1.3.0/GitHub-Copilot-linux-x64.AppImage",
-      "hash": "0l9z1cc07b6xfzpkwm21gmjkqfspl3nlm3h03s2x0r0qlarb5n8b"
+      "url": "https://github.com/github/app/releases/download/v1.4.0/GitHub-Copilot-linux-x64.AppImage",
+      "hash": "0dyhamishgi4ld1x36sqhiagdyki2i546kag5rdjcx05i027mx43"
     },
     "aarch64-linux": {
-      "url": "https://github.com/github/app/releases/download/v1.3.0/GitHub-Copilot-linux-arm64.AppImage",
-      "hash": "18n6zq1r1ll0k8src46dpzxfxk4gy535bwdckwp2iasn8dbmpv6d"
+      "url": "https://github.com/github/app/releases/download/v1.4.0/GitHub-Copilot-linux-arm64.AppImage",
+      "hash": "039a8djps14vlnbjv3adb6i7dmgr29d1syjdfyd03rja4vfc0a0q"
     }
   },
   "GitHub Copilot CLI": {
     "x86_64-linux": {
-      "url": "https://github.com/github/copilot-cli/releases/download/v1.0.109/copilot-linux-x64.tar.gz",
-      "hash": "0qdp7hlj6bn2gv93w5plixld5njmxpm7vcm6xljqg31fh9zg79s5"
+      "url": "https://github.com/github/copilot-cli/releases/download/v1.0.111/copilot-linux-x64.tar.gz",
+      "hash": "1j4m1am91n1axgwbz3j7pbj9s7gvr2bssj06a8cbqaf8riw47sik"
     },
     "aarch64-linux": {
-      "url": "https://github.com/github/copilot-cli/releases/download/v1.0.109/copilot-linux-arm64.tar.gz",
-      "hash": "1xja1h8nxb3q1d6dlqcy2v9lcz1gh8xyk36daj0psib865nb17b7"
+      "url": "https://github.com/github/copilot-cli/releases/download/v1.0.111/copilot-linux-arm64.tar.gz",
+      "hash": "04wn9l20wmmbqyr4b2yqgkblgj5pgrbwgyi78k9q60yl075zlgr0"
     }
   }
 }
